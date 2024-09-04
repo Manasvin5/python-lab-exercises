@@ -1,4 +1,6 @@
-# Exercise 6: Display numbers divisible by 5 from a list
+# Author: Manasvin Shrimali
+# Date: 4-Sept-2024
+# Exercise 1.6: Display numbers divisible by 5 from a list
 def divisible_by_5(lst):
     return [num for num in lst if num % 5 == 0]
 

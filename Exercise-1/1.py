@@ -1,3 +1,6 @@
+# Author: Manasvin Shrimali
+# Date: 4-Sept-2024
+# Exercise 1.1: Calculate the multiplication and sum of two numbers
 def multiply_or_sum(a, b):
     product = a * b
     if product <= 1000:
