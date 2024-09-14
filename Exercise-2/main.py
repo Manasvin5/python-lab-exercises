@@ -1,3 +1,5 @@
+Author: Manasvin Shrimali
+Author: Manasvin Shrimali
 # Exercise 1: Accept numbers from a user
 num = int(input("Enter a number: "))
 print(f"You entered: {num}")

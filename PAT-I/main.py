@@ -1,3 +1,4 @@
+Author: Manasvin Shrimali
 # Q1: Calculate the commission for a salesman based on the monthly sale.
 def calculate_commission(sales):
     if sales > 500000:
